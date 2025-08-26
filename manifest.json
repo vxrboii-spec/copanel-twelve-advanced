@@ -1,5 +1,5 @@
 {
-  "name": "copanel Booklet",
+  "name": "copanel Booklet twelve advanced",
   "short_name": "copanel",
   "start_url": ".",
   "display": "standalone",
@@ -18,3 +18,4 @@
     }
   ]
 }
+
