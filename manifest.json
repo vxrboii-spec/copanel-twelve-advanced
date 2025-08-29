@@ -1,6 +1,6 @@
 {
-  "name": "copanel Booklet twelve advanced",
-  "short_name": "copanel Booklet twelve advanced",
+  "name": "Booklet.twelve.advanced",
+  "short_name": "Booklet.twelve.advanced",
   "start_url": ".",
   "display": "standalone",
   "background_color": "#f5f5f5",
@@ -18,3 +18,4 @@
     }
   ]
 }
+
